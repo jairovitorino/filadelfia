@@ -1,0 +1,124 @@
+/* 
+Desenvolvimento: Dataprev - ESCE.P 
+Sistema: SART
+Autores: Diley, Carlos José, Raimundo Filho, Délio Costa
+*/
+
+body 
+{
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	SCROLLBAR-FACE-COLOR: #ffffff;
+	SCROLLBAR-HIGHLIGHT-COLOR: #BDD5E7;
+	SCROLLBAR-SHADOW-COLOR: #ffffff;
+	SCROLLBAR-3DLIGHT-COLOR: #ffffff;
+	SCROLLBAR-ARROW-COLOR: #335ec1;	
+}
+input {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #000000;
+	border: 1px solid #003366;
+	margin: 3px;
+}
+textarea 
+{
+	border-bottom-color: #003366; 
+    border-bottom-width: 1px; border-left-color: #003366; 
+    border-left-width: 1px; 
+    border-right-color: #003366; 
+    border-right-width: 1px; 
+    border-top-color: #003366; 
+    border-top-width: 1px; 
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size: 10px
+}
+A:link {
+	color: #000000;
+	text-decoration: none;
+}
+A:visited {
+	text-decoration: none;
+	color: #000000;
+}
+A:hover {
+	text-decoration: none;
+	color: #FFA500;
+}
+A:active {
+	text-decoration: none;
+	color: #000000;
+}
+.tabela-titulo {
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+    font-size: 14px; color: #FFFFFF; 
+    font-weight: bold; 
+    background-color: #5C8AAE 
+}
+.tabela-cadastro {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #000066;
+    background-color: #D8E2EB
+}
+.tabela-grid {
+	border: 2px solid #FFFFFF; 
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size: 11px; 
+    color: #000066; 
+    background-color: #BDD5E7 
+}
+.tr
+{
+	bgcolor: solid #D8E2EB
+}
+.td
+{
+	border: 1px solid #FFFFFF;
+}
+.td-grid
+{
+	background-color: #81A4C0; 
+    font-family: Verdana,Helvetica; 
+    font-size: 11px; 
+	color: #ffffff;
+}
+.labelAzul {
+	text-align: right;
+	padding-right: 5px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #000066;
+}
+.botaoAzul {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #FFFFFF;
+	background-color: #5C8AAE;
+	height: 22px;
+}
+.Verdana-24-Bold {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	color: #000066;
+	font-weight: bold;
+}
+.Verdana-12 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+}
+.Verdana-12-Bold {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000099;
+	font-weight: bold;
+}
+.fonteMenu {
+    font-size: 12px; 
+    color: #FFFFFF; 
+    font-family: Verdana, Arial, Helvetica,sans-serif;
+}
