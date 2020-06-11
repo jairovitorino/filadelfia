@@ -48,7 +48,7 @@ if ($nm_usuario) {
       <td colspan="2" class="labelDireita">Usu&aacute;rio logado:<?php echo $nm_usuario;?></td>
     </tr>
     <tr> 
-      <td colspan="2" class="labelCentro">INFOGR&Aacute;FICO</td>
+      <td colspan="2" class="labelCentro">INFOGR&Aacute;FICO ESTAT&Iacute;STICOS</td>
     </tr>
     <tr> 
       <td colspan="2" class="labelEsquerda"><hr></td>
